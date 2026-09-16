@@ -1,0 +1,26 @@
+Stakeholder,Criteria,Tunnel,Movable bridge,Extra lanes,Increasing vertical clearance,Criteria_Weight
+Municipality of Rotterdam,Constructive safety,100,0,60,80,0.2
+Municipality of Rotterdam,Economical aspects,0,25,70,100,0.3
+Municipality of Rotterdam,Sustainability,0,90,40,100,0.1
+Municipality of Rotterdam,Feasibility and environment,0,40,100,60,0.2
+Municipality of Rotterdam,Functionality and use,100,0,100,85,0.2
+Rijkswaterstaat,Constructive safety,100,0,60,80,0.25
+Rijkswaterstaat,Economical aspects,0,25,70,100,0.25
+Rijkswaterstaat,Sustainability,0,90,40,100,0.25
+Rijkswaterstaat,Feasibility and environment,0,40,100,60,0.25
+Rijkswaterstaat,Functionality and use,100,0,100,85,0
+Port of Rotterdam,Constructive safety,100,0,60,80,0.25
+Port of Rotterdam,Economical aspects,0,25,70,100,0
+Port of Rotterdam,Sustainability,0,90,40,100,0
+Port of Rotterdam,Feasibility and environment,0,40,100,60,0.25
+Port of Rotterdam,Functionality and use,100,0,100,85,0.5
+Inhabitants,Constructive safety,100,0,60,80,0.2
+Inhabitants,Economical aspects,0,25,70,100,0.05
+Inhabitants,Sustainability,0,90,40,100,0.1
+Inhabitants,Feasibility and environment,0,40,100,60,0.5
+Inhabitants,Functionality and use,100,0,100,85,0.15
+Road users,Constructive safety,100,0,60,80,0.5
+Road users,Economical aspects,0,25,70,100,0
+Road users,Sustainability,0,90,40,100,0
+Road users,Feasibility and environment,0,40,100,60,0
+Road users,Functionality and use,100,0,100,85,0.5
