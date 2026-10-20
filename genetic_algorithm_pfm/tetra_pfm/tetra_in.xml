@@ -66,6 +66,9 @@
   <Alternative Name="A19" Type="0">
     <Comment />
       </Alternative>
+  <Alternative Name="A20" Type="0">
+    <Comment />
+      </Alternative>
   <Criterion Name="Criteria" IsPreferenceIncreasing="1">
     <Comment />
     <Criterion Name="C1" IsPreferenceIncreasing="1">
@@ -73,9 +76,9 @@
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
       <RulerValue Name="A1" Value="42.35025848765432" />
-        <RulerValue Name="A2" Value="24.225258487654315" />
-        <RulerValue Name="A3" Value="23.772133487654315" />
-        <RulerValue Name="A4" Value="22.865883487654315" />
+        <RulerValue Name="A2" Value="27.850258487654315" />
+        <RulerValue Name="A3" Value="24.225258487654315" />
+        <RulerValue Name="A4" Value="23.319008487654315" />
         <RulerValue Name="A5" Value="22.865883487654315" />
         <RulerValue Name="A6" Value="22.865883487654315" />
         <RulerValue Name="A7" Value="22.865883487654315" />
@@ -91,6 +94,7 @@
         <RulerValue Name="A17" Value="22.865883487654315" />
         <RulerValue Name="A18" Value="22.865883487654315" />
         <RulerValue Name="A19" Value="22.865883487654315" />
+        <RulerValue Name="A20" Value="22.865883487654315" />
       </Measurement>
     </Criterion>
     <Criterion Name="C2" IsPreferenceIncreasing="1">
@@ -116,6 +120,7 @@
         <RulerValue Name="A17" Value="35.926572807503945" />
         <RulerValue Name="A18" Value="35.926572807503945" />
         <RulerValue Name="A19" Value="35.926572807503945" />
+        <RulerValue Name="A20" Value="35.926572807503945" />
       </Measurement>
     </Criterion>
     <Criterion Name="C3" IsPreferenceIncreasing="1">
@@ -141,6 +146,7 @@
         <RulerValue Name="A17" Value="64.07342719249606" />
         <RulerValue Name="A18" Value="64.07342719249606" />
         <RulerValue Name="A19" Value="64.07342719249606" />
+        <RulerValue Name="A20" Value="64.07342719249606" />
       </Measurement>
     </Criterion>
     <Criterion Name="C4" IsPreferenceIncreasing="1">
@@ -148,9 +154,9 @@
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
       <RulerValue Name="A1" Value="17.914224038909822" />
-        <RulerValue Name="A2" Value="2.6379963603383914" />
-        <RulerValue Name="A3" Value="2.2560906683741138" />
-        <RulerValue Name="A4" Value="1.4922792844455444" />
+        <RulerValue Name="A2" Value="5.693241896052683" />
+        <RulerValue Name="A3" Value="2.6379963603383914" />
+        <RulerValue Name="A4" Value="1.874184976409822" />
         <RulerValue Name="A5" Value="1.4922792844455444" />
         <RulerValue Name="A6" Value="1.4922792844455444" />
         <RulerValue Name="A7" Value="1.4922792844455444" />
@@ -166,6 +172,7 @@
         <RulerValue Name="A17" Value="1.4922792844455444" />
         <RulerValue Name="A18" Value="1.4922792844455444" />
         <RulerValue Name="A19" Value="1.4922792844455444" />
+        <RulerValue Name="A20" Value="1.4922792844455444" />
       </Measurement>
     </Criterion>
     <Criterion Name="C5" IsPreferenceIncreasing="1">
@@ -173,9 +180,9 @@
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
       <RulerValue Name="A1" Value="82.8125" />
-        <RulerValue Name="A2" Value="98.4375" />
-        <RulerValue Name="A3" Value="98.828125" />
-        <RulerValue Name="A4" Value="99.609375" />
+        <RulerValue Name="A2" Value="95.3125" />
+        <RulerValue Name="A3" Value="98.4375" />
+        <RulerValue Name="A4" Value="99.21875" />
         <RulerValue Name="A5" Value="99.609375" />
         <RulerValue Name="A6" Value="99.609375" />
         <RulerValue Name="A7" Value="99.609375" />
@@ -191,6 +198,7 @@
         <RulerValue Name="A17" Value="99.609375" />
         <RulerValue Name="A18" Value="99.609375" />
         <RulerValue Name="A19" Value="99.609375" />
+        <RulerValue Name="A20" Value="99.609375" />
       </Measurement>
     </Criterion>
     <Measurement Name="Criteria Weights" Type="1" DecisionMaker="Default User" SubType="0">
